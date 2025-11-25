@@ -1,0 +1,160 @@
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe.config
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.pdb
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\MySql.Data.dll
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Memory.dll
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Buffers.dll
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\MySql.Data.xml
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.AssemblyReference.cache
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.SuggestedBindingRedirects.cache
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.Properties.Resources.resources
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.GenerateResource.cache
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.CoreCompileInputs.cache
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.CopyComplete
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.exe
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.pdb
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormAuth.resources
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMain.resources
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormProduct.resources
+C:\Users\tadakatsu\Desktop\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormUser.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe.config
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.pdb
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Memory.dll
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Buffers.dll
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.AssemblyReference.cache
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.SuggestedBindingRedirects.cache
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormAuth.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMain.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormProduct.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormUser.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.Properties.Resources.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.GenerateResource.cache
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.CoreCompileInputs.cache
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.CopyComplete
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.exe
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.pdb
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormRegistration.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMessengers.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormAddMessenger.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeMessenger.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\MaterialSkin.dll
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMessageBox.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormDialogBox.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm2.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm3.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm4.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeMessenger2.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm5.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMessengersShow.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm6.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeMyProduct.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeAccount.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormAdminPanel.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormStart.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutFormReason.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormReason.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.CustomFlowLayoutPanel.resources
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe.manifest
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.application
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.exe.manifest
+C:\Users\tadakatsu\Desktop\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.application
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe.config
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe.manifest
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.application
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.exe
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\Dopamine.pdb
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\MaterialSkin.dll
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Memory.dll
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\System.Buffers.dll
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutFormReason.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm6.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm5.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm4.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm3.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm2.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.BlackOutForm.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.CustomFlowLayoutPanel.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormAdminPanel.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeMessenger2.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeMessenger.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormAddMessenger.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormAuth.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMain.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormDialogBox.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeMyProduct.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormReason.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMessengersShow.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMessageBox.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormMessengers.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormProduct.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormChangeAccount.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormRegistration.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormStart.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormUser.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.Properties.Resources.resources
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.GenerateResource.cache
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.exe.manifest
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.application
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.csproj.CopyComplete
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.exe
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.pdb
+C:\Users\user\Documents\Николаев\Проекты\Курсовой Толстошеев\Dopamine\Dopamine\obj\Debug\Dopamine.FormForgotPass.resources
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\Dopamine.exe.config
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\Dopamine.exe.manifest
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\Dopamine.application
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\Dopamine.exe
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\Dopamine.pdb
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\MaterialSkin.dll
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\System.Memory.dll
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MASTER\Desktop\Dopamine\bin\Debug\System.Buffers.dll
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.csproj.AssemblyReference.cache
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutFormReason.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutForm6.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutForm5.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutForm4.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutForm3.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutForm2.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutForm.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.CustomFlowLayoutPanel.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormAdminPanel.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormChangeMessenger2.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormChangeMessenger.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormAddMessenger.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormAuth.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormMain.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormDialogBox.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormChangeMyProduct.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormForgotPass.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormReason.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormMessengersShow.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormMessageBox.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormMessengers.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormProduct.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormChangeAccount.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormRegistration.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormStart.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormUser.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.Properties.Resources.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.csproj.GenerateResource.cache
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.exe.manifest
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.application
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.csproj.CopyComplete
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.exe
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.pdb
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.BlackOutFormCheckEmail.resources
+C:\Users\MASTER\Desktop\Dopamine\obj\Debug\Dopamine.FormCheckEmail.resources
